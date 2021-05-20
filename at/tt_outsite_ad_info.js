@@ -18,5 +18,22 @@
     "APPTUTTi_CSJ_Video":"946129391",
     "APPTUTTi_CSJ_Splash":"887476976",
     "APPTUTTi_CSJ_Video_Express":"946129391",
-    "APPTUTTi_CSJ_Interstitial":"946129393"
+    "APPTUTTi_CSJ_Interstitial":"946129393",
+
+
+    "GDT_APPID":"1111835994",
+    "APPTUTTi_GDT_APPID":"1111835994",
+    "Switch_APPTUTTi_GDT_APPID":"1111835994",
+    "Switch_GDT_APPID":"1111835994",
+    
+    "Switch_GDT_Video":"8091284886929718",
+    "Switch_APPTUTTi_GDT_Video":"8091284886929718",
+    "GDT_Video":"8091284886929718",
+    "GDT_Splash":"7071486826429696",
+    "GDT_Interstitial":"6001382876328852",
+    
+    "APPTUTTi_GDT_Video":"8091284886929718",
+    "APPTUTTi_GDT_Splash":"7071486826429696",
+    "APPTUTTi_GDT_Video_Express":"8091284886929718",
+    "APPTUTTi_GDT_Interstitial":"6001382876328852"
     }
