@@ -1,0 +1,38 @@
+{
+    "status":1,
+    "T_APPID":"4798C2BED82F443CA629132C754FBC53",
+    "U_APPID":"607fef8d5844f15425e20872",
+    "TUTTi_APPID":"202012080DHUSFMY5JN13BLI2AOQC8GZ",
+    "TUTTi_ScrKey":"9f3fca743f7ba2999d6882898dbb3343",
+    "CSJ_APPID":"5161818",
+    "APPTUTTi_CSJ_APPID":"5161818",
+    "Switch_APPTUTTi_CSJ_APPID":"5161818",
+    "Switch_CSJ_APPID":"5161818",
+    
+    "Switch_CSJ_Video":"946142549",
+    "Switch_APPTUTTi_CSJ_Video":"946142549",
+    "CSJ_Video":"946142549",
+    "CSJ_Splash":"887478989",
+    "CSJ_Interstitial":"946142553",
+    
+    "APPTUTTi_CSJ_Video":"946142549",
+    "APPTUTTi_CSJ_Splash":"887478989",
+    "APPTUTTi_CSJ_Video_Express":"946142549",
+    "APPTUTTi_CSJ_Interstitial":"946142553",
+    
+    "GDT_APPID":"1111835994",
+    "APPTUTTi_GDT_APPID":"1111835994",
+    "Switch_APPTUTTi_GDT_APPID":"1111835994",
+    "Switch_GDT_APPID":"1111835994",
+    
+    "Switch_GDT_Video":"4061382924082017",
+    "Switch_APPTUTTi_GDT_Video":"4061382924082017",
+    "GDT_Video":"4061382924082017",
+    "GDT_Splash":"8001083944783072",
+    "GDT_Interstitial":"8021282974488135",
+    
+    "APPTUTTi_GDT_Video":"4061382924082017",
+    "APPTUTTi_GDT_Splash":"8001083944783072",
+    "APPTUTTi_GDT_Video_Express":"4061382924082017",
+    "APPTUTTi_GDT_Interstitial":"8021282974488135"
+    }
